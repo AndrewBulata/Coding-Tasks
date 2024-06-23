@@ -188,6 +188,10 @@ if __name__ == "__main__":
 
 This script processes the reviews, performs sentiment analysis, extracts positive and negative adjectives, and plots their frequencies in histograms. Make sure all the required libraries are installed and the dataset is available to run the script successfully.
 
-#### Addtional test details
+### Addtional test details
 Average completion time: ~6m
 Size of dataset: 5000 reviews, 806742 characters
+
+### Histogram Output
+![image](https://github.com/AndrewBulata/Coding-Tasks/assets/64040990/670a4f1f-4c59-42c1-90f3-6aa71a063553)
+
